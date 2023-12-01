@@ -5,6 +5,7 @@
 <br>
 <b><i>Click the link to open the Website - https://danielhashmi.github.io/FlashCard-Enhanced-Version/.</i></b>
 <br>
+<a src="https://danielhashmi.github.io/FlashCard-Enhanced-Version/">Open Project</a>
 <br>
 <b>Instructions to use</b>
 <br>
