@@ -3,7 +3,7 @@
 <i>This is a simple FlashCard Project created by using HTML ,CSS , JS. Hope you guys like it</i>
 <br>
 <br>
-<b><i>Click the link to open the Project - <a href="https://danielhashmi.github.io/FlashCard-Enhanced-Version/">Open Project</a></i></b>
+<b><i>Click this button to open the Project - <a href="https://danielhashmi.github.io/FlashCard-Enhanced-Version/">Open Project</a></i></b>
 <br>
 <br>
 <b>Instructions to use</b>
